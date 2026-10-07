@@ -1,5 +1,14 @@
 # 🛡 Crypto Guardian – AI-Powered Crypto Scam Detection Platform
 
+## Reproducible LSTM evaluation
+
+[Read the executed LSTM notebook](evaluation/notebooks/LSTM_ETH_Forecasting.ipynb)
+and [its evaluation guide](evaluation/README.md). This new GPU follow-up uses
+chronological splits and a persistence baseline: MAE **$211.09 vs $163.89**,
+so it does **not** establish useful price-prediction performance. It is separate
+from the original hackathon award and other scam-detection claims.
+
+
 **🏆 Awarded 3rd Place at the AI Odyssey Hackathon by GDG SUP'COM**
 <p align="center">
   <img src="./crypto-guardian/src/assets/logo.png" alt="Crypto Guardian Logo" width="200"/>
@@ -87,5 +96,3 @@ Crypto Guardian combines several intelligent components to form an integrated as
   <a href="https://github.com/nourmedini1">Mohamed Nour Medini</a> ·
   <a href="https://github.com/AbderrazagB">Abderrazag Boussaid</a>
 </p>
-
-

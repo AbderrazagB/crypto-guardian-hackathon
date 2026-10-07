@@ -1,0 +1,19 @@
+{
+  "experiment": "new_follow_up_lstm_benchmark_not_original_checkpoint",
+  "asset": "ETH-USD",
+  "lookback_days": 30,
+  "horizon_days": 7,
+  "seed": 42,
+  "train_windows": 1790,
+  "validation_windows": 725,
+  "test_windows": 359,
+  "epochs_run": 49,
+  "overall_lstm_mae_usd": 211.08727490515548,
+  "overall_persistence_mae_usd": 163.88796878830001,
+  "overall_mae_improvement_pct": -28.799738300390132,
+  "horizons_better_than_persistence": 0,
+  "keras_version": "3.15.1",
+  "backend": "torch",
+  "torch_version": "2.14.0+cu130",
+  "gpu": "NVIDIA RTX A3000 12GB Laptop GPU"
+}

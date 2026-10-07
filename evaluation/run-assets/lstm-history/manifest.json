@@ -1,0 +1,8 @@
+{
+  "ticker": "ETH-USD",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/ETH-USD?period1=1514764800&period2=1767225600&interval=1d",
+  "retrieved_date": "2026-10-06",
+  "sha256": "2cd410fac01d95ac64e2ddbebcc3dcacb4a43111cb95788ff031af59f9966d65",
+  "start": "2018-01-01",
+  "end_exclusive": "2026-01-01"
+}

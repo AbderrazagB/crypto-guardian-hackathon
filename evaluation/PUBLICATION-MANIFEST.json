@@ -1,0 +1,116 @@
+{
+  "files": {
+    "evaluation/.gitignore": {
+      "bytes": 139,
+      "sha256": "ac9f6ab533cdf357fddcaf9afd553a4f04ec6b61b91b26109e986765e5fd66d2"
+    },
+    "evaluation/README.md": {
+      "bytes": 2255,
+      "sha256": "0c073292f86ee8d063ec26aaa1856203cd45adbba9cb57c6fd5312204462330d"
+    },
+    "evaluation/data-sources/lstm-history-manifest.json": {
+      "bytes": 318,
+      "sha256": "6ec28ad110e48d1377cabe718c79322d863cacaeac5190aed6e82bf89c39b702"
+    },
+    "evaluation/execute_notebooks.py": {
+      "bytes": 3034,
+      "sha256": "deddb805e45f3cb664814fb16c16503c7d029269af7f49e8e73cf8bd5e10c8c3"
+    },
+    "evaluation/notebook_paths.json": {
+      "bytes": 86,
+      "sha256": "a5a75b31be4aa63d0b8c6fb01f97f69a24c9d338f0fd8b6ad4f2d41c8a7a3993"
+    },
+    "evaluation/notebooks/LSTM_ETH_Forecasting.ipynb": {
+      "bytes": 187976,
+      "sha256": "f9f039a1afe965ee60bd4150ebbfa22448016f25a59d0242e7300e3eea4c21be"
+    },
+    "evaluation/notebooks/notebook_figures.py": {
+      "bytes": 11248,
+      "sha256": "12264ddaba61111fda55666a23081f240ea085b017c59bb79a5ab0f8b2183b9e"
+    },
+    "evaluation/notebooks/test_notebook_figures.py": {
+      "bytes": 3772,
+      "sha256": "e7ddc7284a5f6a66915ef27e87d9b69ef71889edf2aacb26de49183d666eedaf"
+    },
+    "evaluation/render_notebook.py": {
+      "bytes": 875,
+      "sha256": "2e8e5dd53593b1a327854a0de28b114f7dc59549d3cff02b50fb4ac01eb10117"
+    },
+    "evaluation/reports/LSTM_ETH_Forecasting.html": {
+      "bytes": 518233,
+      "sha256": "89e2b508d1f49ae1d577efdfb6a23fbb78e48060bc8d94e1d44b3bb3f09c5e14"
+    },
+    "evaluation/requirements-gpu.lock.txt": {
+      "bytes": 2350,
+      "sha256": "8f3daefe65e5397c5bc7ee8a485c12b668749ff23acd6d8f408ee26d839f8139"
+    },
+    "evaluation/run-assets/lstm-history/ETH-USD.json": {
+      "bytes": 325049,
+      "sha256": "2cd410fac01d95ac64e2ddbebcc3dcacb4a43111cb95788ff031af59f9966d65"
+    },
+    "evaluation/run-assets/lstm-history/manifest.json": {
+      "bytes": 318,
+      "sha256": "6ec28ad110e48d1377cabe718c79322d863cacaeac5190aed6e82bf89c39b702"
+    },
+    "evaluation/runs/lstm/artifact_verification.json": {
+      "bytes": 339,
+      "sha256": "b8683efce6c87a3ffd2eb2ddbd64914a6d0f7e1aec44c2491f50400ac51a5d72"
+    },
+    "evaluation/runs/lstm/eth_seven_day_lstm.keras": {
+      "bytes": 401451,
+      "sha256": "5ab2025a66e1e8693592ded76d69d675328c2bd3a3c6594dea45225ed79eb590"
+    },
+    "evaluation/runs/lstm/features.json": {
+      "bytes": 55,
+      "sha256": "12b9dd716a52864a0bc329b6a1b85622bbe313a8b4be4fe24e37575cdb6175c3"
+    },
+    "evaluation/runs/lstm/held_out_horizon_metrics.csv": {
+      "bytes": 812,
+      "sha256": "781417389305e6b201993048a18ece89f5968faadf66d8f81bc1fdc8510b5c59"
+    },
+    "evaluation/runs/lstm/held_out_predictions.npz": {
+      "bytes": 26331,
+      "sha256": "8935ba4e2586490d40986ef131e645aeb81ebf3ad2aa2fd835517548ddd3473f"
+    },
+    "evaluation/runs/lstm/horizon_mae_vs_baseline.png": {
+      "bytes": 70296,
+      "sha256": "28d116d860405670101b4e2f564219be8d1a14d589c033e3c88af8d3037f7a0d"
+    },
+    "evaluation/runs/lstm/learning_curve.png": {
+      "bytes": 50525,
+      "sha256": "d03a53d15e3d0dd37446118dcf041a0be6da22d8f1530045043c37b74eb54953"
+    },
+    "evaluation/runs/lstm/run_summary.json": {
+      "bytes": 577,
+      "sha256": "4e17181cf623ccd1b9984f6066cb378b1bcb69e7572191206a837fd38e1f0387"
+    },
+    "evaluation/runs/lstm/split_coverage.csv": {
+      "bytes": 150,
+      "sha256": "ee9ac9d7532dcea5fbba1756cee9f50ae7296362ee87fbeb18f7b2a02b6d4602"
+    },
+    "evaluation/runs/lstm/training_history.csv": {
+      "bytes": 2289,
+      "sha256": "d56043f339d2ead5596ee165d27d64e04897ce0d29c6d823720d29318ccb92dc"
+    },
+    "evaluation/runs/lstm/training_scaler.pkl": {
+      "bytes": 879,
+      "sha256": "00fe90b3a39fffaacfdfbb272ca39368ff78fdb243373f7f137e70bae9ec8d35"
+    },
+    "evaluation/runs/lstm/worst_test_window.csv": {
+      "bytes": 481,
+      "sha256": "a7c452e80d68a334ac230a33834787f76be3e378089cb9fd24273903386dd415"
+    },
+    "evaluation/runs/lstm/worst_test_window.png": {
+      "bytes": 69396,
+      "sha256": "8b8de8935a53b2ad6ab4ad381d9ed071766a1214fbe01f101c8f08a2d432ea9d"
+    },
+    "evaluation/verify_files.py": {
+      "bytes": 525,
+      "sha256": "56d2e5cc6fb7e51b04e49627c84ce1a007adcd4852d95c81fa1ad4d46b471cea"
+    },
+    "evaluation/verify_lstm_artifacts.py": {
+      "bytes": 3317,
+      "sha256": "a9a909f0c7d01ea56c5054f1bd1ebb826767e2aa53541ddc1f99471ace6dac35"
+    }
+  }
+}

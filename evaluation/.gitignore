@@ -1,0 +1,8 @@
+.venv/
+.runtime-kernels/
+__pycache__/
+notebooks/__pycache__/
+runtime_vendor/**/__pycache__/
+.ipynb_checkpoints/
+runs/**/checkpoints/
+*.log

@@ -1,0 +1,9 @@
+{
+  "artifact_reload_passed": true,
+  "test_windows": 359,
+  "max_absolute_replay_forecast_difference_usd": 0.0,
+  "max_actual_price_rounding_difference_usd": 0.00019868987146764994,
+  "training_only_scaler_verified": true,
+  "device": "cuda:0",
+  "saved_model_sha256": "5ab2025a66e1e8693592ded76d69d675328c2bd3a3c6594dea45225ed79eb590"
+}
