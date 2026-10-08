@@ -21,8 +21,8 @@
       "sha256": "a5a75b31be4aa63d0b8c6fb01f97f69a24c9d338f0fd8b6ad4f2d41c8a7a3993"
     },
     "evaluation/notebooks/LSTM_ETH_Forecasting.ipynb": {
-      "bytes": 187976,
-      "sha256": "f9f039a1afe965ee60bd4150ebbfa22448016f25a59d0242e7300e3eea4c21be"
+      "bytes": 187963,
+      "sha256": "f443862f022e01cd057b908ded407c708f8f7819554353cc88fc18e71ecb85c7"
     },
     "evaluation/notebooks/notebook_figures.py": {
       "bytes": 11248,
@@ -37,8 +37,8 @@
       "sha256": "2e8e5dd53593b1a327854a0de28b114f7dc59549d3cff02b50fb4ac01eb10117"
     },
     "evaluation/reports/LSTM_ETH_Forecasting.html": {
-      "bytes": 518233,
-      "sha256": "89e2b508d1f49ae1d577efdfb6a23fbb78e48060bc8d94e1d44b3bb3f09c5e14"
+      "bytes": 518194,
+      "sha256": "a416a3d65e407d8f6c2a42be3be999cd784c59e1db7d743111993c4c0d515655"
     },
     "evaluation/requirements-gpu.lock.txt": {
       "bytes": 2350,
